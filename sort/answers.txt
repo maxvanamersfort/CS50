@@ -1,0 +1,11 @@
+sort1 uses: bubble sort.
+
+How do you know?: best case for a bubble sort is sorted numbers, which sort1 runs beter than sort3 so sort 1 is a bubble sort
+
+sort2 uses: merge sort.
+
+How do you know?: it's the fastest sort in real time. Also doesn't have trouble with bigger (n)
+
+sort3 uses: selection sort
+
+How do you know?: has to keep running trough the numbers within a sorted list, which means it's slower than sort1. so it has to be a selection sort
